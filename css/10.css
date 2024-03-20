@@ -1,0 +1,15 @@
+a {
+    color: blueviolet;
+}
+
+a[href="http://www.google.com"] {
+    color: chartreuse;
+}
+
+a[href^="https" ]{
+    color: yellowgreen;
+}
+
+a[href$=".net"]{
+    color: violet;
+}

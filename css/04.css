@@ -1,0 +1,7 @@
+.descripcion {
+    color: aqua;
+}
+
+.header .descripcion {
+    color: red;
+}
